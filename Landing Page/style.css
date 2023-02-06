@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.canteen-logo{
+  width: 69px;
+  height: 80px;
+  margin-left: 115px;
+  margin-right: 9px;
+}
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+  margin-right: 30px;
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+  margin-right: 30px;
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+  margin-right: 30px;
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+  margin-right: 30px;
+}
+.navbar-nav input[type=text] {
+    float: right;
+    padding: 9px;
+    /* border: none; */
+    margin-top: -3px;
+    margin-right: -15px;
+    font-size: 16px;
+  }
+.banner-section-bg-container {
+  background-image: url("https://th.bing.com/th/id/OIP.SAlSj9g7MXtnp8n_ozMjngHaEG?pid=ImgDet&rs=1");
+  height: 95vh;
+  background-size: cover;
+}
+.banner-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 45px;
+  font-weight: 300;
+}
+.banner-caption {
+  color: #f5f7fa;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 300;
+}
+.custom-button {
+  color: white;
+  background-color: firebrick;
+  width: 150px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 20px;
+  margin-right: 10px;
+  margin-top: 35px;
+}
+.custom-outline-button {
+  color: white;
+  background-color: transparent;
+  width: 150px;
+  height: 45px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: firebrick;
+  border-radius: 20px;
+  margin-top: 35px;
+}
+.au-section {
+  background-color: #f9fbfe;
+  /* flex-direction: row; */
+}
+.au-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.au-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.au-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+  /* flex-direction: row;
+  flex-wrap: wrap; */
+}
+.au-card-image {
+  width: 87px;
+  height: 90px;
+}
+.au-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.au-card-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.offers {
+  color: #323f4b;
+  font-style: italic;
+  font-weight: 600;
+}
+.menu-section {
+  background-color: white;
+}
+.menu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.menu-item-image {
+  border-radius: 20px;
+}
+.menu-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+.menu-item-link {
+  color: #d0b200;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.menu-item-card {
+  border-radius: 25px;
+}
+.healthy-food-section {
+  background-color: #f9fbfe;
+}
+.healthy-food-section-img {
+  width: 270px;
+}
+.healthy-food-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.healthy-food-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.delivery-and-payment-section {
+  background-color: white;
+}
+.delivery-and-payment-section-img {
+  width: 270px;
+}
+.delivery-and-payment-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.delivery-and-payment-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.payment-card-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+.reserve-section {
+    background-color: #d0b2001a;
+  }
+.reserve-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+.reserve-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+.reserve-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+  }
+.follow-us-section {
+  background-color: white;
+}
+.follow-us-section-heading {
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.icon {
+  font-size: 35px;
+}
+.footer-section {
+  background-color: #304352;
+}
+.footer-section-contact {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 14px;
+  }
+.footer-section-mail-id {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 8px;
+}
+.footer-section-address {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+}
