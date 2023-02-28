@@ -1,0 +1,123 @@
+.intro_page_header {
+  padding-left: 50px;
+  padding-right: 140px;
+  display: inline-flex;
+  gap: 400px;
+  background-color: skyblue;
+}
+.button1 {
+  padding-top: 20px;
+}
+button {
+  font-size: large;
+  margin-right: 30px;
+  border-radius: 12px;
+  padding: 10px;
+}
+.home_page {
+  height: 400px;
+  width: 1300px;
+  font-size: xx-large;
+  color: white;
+  padding-left: 200px;
+  padding-top: 200px;
+  display: inline-flex;
+  gap: 300px;
+  background-image: url("https://media.istockphoto.com/id/1272795679/vector/tile-abstract-shape-background.jpg?s=612x612&w=0&k=20&c=EpSNdbw6rThPmZ4LJztrNok2ReGKgrvVBNAEopVuzoM=");
+}
+.button2 {
+  background-color: yellow;
+  color: black;
+  border: none;
+}
+.contact {
+  padding-top: 40px;
+  gap: 50px;
+}
+.x1 {
+  padding-bottom: 50px;
+}
+.image1 {
+  border-radius: 200px;
+}
+.About_me {
+  padding-left: 100px;
+  padding-right: 200px;
+  padding-top: 30px;
+  display: inline-flex;
+  gap: 60px;
+}
+.skills_page {
+  padding-left: 100px;
+}
+.Proglang {
+  padding-top: 12px;
+  display: inline-flex;
+  gap: 50px;
+}
+.pl {
+  background-color: bisque;
+  border-radius: 30px;
+  border-color: none;
+  padding: 20px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 20px;
+}
+.bb {
+  background-color: blue;
+  font-size: large;
+  color: white;
+}
+.tb1 {
+  background-color: lightpink;
+}
+.tb2 {
+  background-color: lightslategray;
+}
+.tb3 {
+  background-color: lavenderblush;
+}
+.table_tag {
+  padding-left: 100px;
+  padding-right: 50px;
+}
+.proj_page {
+  padding-left: 100px;
+  display: inline-flex;
+  gap: 100px;
+}
+.p1,
+.p2,
+.p3 {
+  background-color: lightsalmon;
+  border: 1px solid black;
+  padding: 30px;
+  width: 300px;
+}
+.cont {
+  background-color: skyblue;
+  padding-left: 100px;
+}
+.cont1 {
+  display: inline-flex;
+  padding-left: 300px;
+  gap: 130px;
+}
+.cont3 {
+  padding-left: 450px;
+}
+.conn {
+  background-color: skyblue;
+  padding-left: 400px;
+  padding-right: 500px;
+  gap: 50px;
+  display: inline-flex;
+}
